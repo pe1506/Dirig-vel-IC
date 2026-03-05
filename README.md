@@ -7,4 +7,3 @@ Este projeto aplica conhecimentos de Engenharia Mecatrônica no desenvolvimento 
 ## Tecnologias
 - Arduino
 - ESP CAM
-- 
